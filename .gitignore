@@ -37,7 +37,7 @@ Desktop.ini
 *.exe
 *.out
 *.app
-*.i*
+*.ii
 *.pdb
 *.ilk
 *.idb
